@@ -6,7 +6,42 @@ Jika Anda tidak dapat menggunakan script di github ini atau ada bug di script, s
 [![](https://img.shields.io/badge/Groups-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://facebook.com/groups/1149190218775661/)
 #
 <detail terbuka>
-```` DAFTAR SANDI ````
+
+<h1 align="center"> [Installing]</h1>
+
+<h2 align="center">  SCRIPT CFD </h2>
+
+## <b>installation</b>
+
+🔰 _PUBLIC COMMAND_
+
+- `pkg update`
+
+- `pkg upgrade`
+
+- `pkg install git`
+
+- `pkg install python`
+
+- `pip install requests`
+
+- `pip install mechanize`
+
+- `pip install bs4`
+
+- `rm -rf CFD`
+
+- `git clone https://github.com/G30SPKI/CFD`
+
+- `cd CFD`
+
+- `python CFD.py`
+
+     
+
+ ```This Tools is Free Enjoy ```</br>
+
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-G30SPKI-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/6285695430376)
 
 #### Indonesia
 ````
